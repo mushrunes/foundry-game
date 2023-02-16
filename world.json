@@ -1,0 +1,192 @@
+{
+  "title": "Misadventures of Magical Misfits",
+  "authors": [
+    {
+      "name": "R20Converter",
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "scripts": [
+    "templates/roll20-templates.js"
+  ],
+  "styles": [
+    "templates/roll20-templates.css"
+  ],
+  "packs": [
+    {
+      "label": "Class & Subclass",
+      "type": "Item",
+      "name": "class-and-subclass",
+      "path": "packs/class-and-subclass.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Items",
+      "type": "Item",
+      "name": "items",
+      "path": "packs/items.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Creatues",
+      "type": "Actor",
+      "name": "creatues",
+      "path": "packs/creatues.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Beasts",
+      "type": "Actor",
+      "name": "beasts",
+      "path": "packs/beasts.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Monstrosities",
+      "type": "Actor",
+      "name": "monstrosities",
+      "path": "packs/monstrosities.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-misadventures-of-magical-misfits-backgrounds",
+      "path": "packs/ddb-misadventures-of-magical-misfits-backgrounds.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-misadventures-of-magical-misfits-classes",
+      "path": "packs/ddb-misadventures-of-magical-misfits-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Subclasses",
+      "name": "ddb-misadventures-of-magical-misfits-subclasses",
+      "path": "packs/ddb-misadventures-of-magical-misfits-subclasses.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-misadventures-of-magical-misfits-class-features",
+      "path": "packs/ddb-misadventures-of-magical-misfits-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-misadventures-of-magical-misfits-feats",
+      "path": "packs/ddb-misadventures-of-magical-misfits-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-misadventures-of-magical-misfits-items",
+      "path": "packs/ddb-misadventures-of-magical-misfits-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-misadventures-of-magical-misfits-monsters",
+      "path": "packs/ddb-misadventures-of-magical-misfits-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-misadventures-of-magical-misfits-vehicles",
+      "path": "packs/ddb-misadventures-of-magical-misfits-vehicles.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Races",
+      "name": "ddb-misadventures-of-magical-misfits-races",
+      "path": "packs/ddb-misadventures-of-magical-misfits-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-misadventures-of-magical-misfits-racial-traits",
+      "path": "packs/ddb-misadventures-of-magical-misfits-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-misadventures-of-magical-misfits-spells",
+      "path": "packs/ddb-misadventures-of-magical-misfits-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-misadventures-of-magical-misfits-tables",
+      "path": "packs/ddb-misadventures-of-magical-misfits-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-misadventures-of-magical-misfits-override",
+      "path": "packs/ddb-misadventures-of-magical-misfits-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "system": "dnd5e",
+  "coreVersion": "10.291",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.1.4",
+  "id": "misadventures-of-magical-misfits-restore",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291"
+  },
+  "description": "",
+  "background": ""
+}
